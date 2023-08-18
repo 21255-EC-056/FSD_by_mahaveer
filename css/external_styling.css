@@ -1,0 +1,60 @@
+/*.external{
+	font-size: 30px;
+	border: 3px solid yellow;
+	background-color: darkred;
+}
+#external{
+	font-size: 30px;
+	border: 3px solid yellow;
+	background-color: purple;
+}
+p{
+	color: blueviolet;
+	font-size: 30px;
+}*/
+div{
+	
+	background-color: bule;
+	border-radius: 50px;
+   height: 100px;
+   width: 100px;
+}
+/*{
+	font-family: revert;
+	color: green;
+}
+
+/*Attribute selector
+//input[type="text"]{
+	font-family: cursive;
+	color: blue;
+}
+input[type="number"]{
+	
+	color: yellow;
+}
+input[type="password"]{
+	font-family: cursive;
+	color: orange;
+}
+a[href]{
+	background-color: yellow;
+}
+img[src]{
+	height: 100px;
+	width: 100px;
+}*/
+/*pseudo selector
+/*a:hover{
+	color: darkorange;
+   
+}*/
+/*body{
+
+    background-image: url("images/images (1).jpg");
+    background-size: cover;
+ 
+   
+
+}
+*/

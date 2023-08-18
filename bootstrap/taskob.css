@@ -1,0 +1,184 @@
+#red{
+	height: 50px;
+	width: 150px;
+	background: lightskyblue;
+	margin-top: 50px;
+	margin-left: 220px;
+}
+#ab{
+	height: 50px;
+	width: 150px;
+	background: lightskyblue;
+	margin-top: 50px;
+	margin-left: 20px;
+}
+#yello{
+	height: 50px;
+	width: 150px;
+	background: lightskyblue;
+	margin-top: 50px;
+	margin-left: 20px;
+}
+#ber{
+	height: 50px;
+	width: 150px;
+	background: lightskyblue;
+	margin-top: 50px;
+	margin-left: 20px;
+}
+#ba{
+	height: 50px;
+	width: 150px;
+	background: lightskyblue;
+	margin-top: 50px;
+	margin-left:20px;
+}
+#bc{
+	height: 50px;
+	width: 150px;
+	background: lightskyblue;
+	margin-top: 50px;
+	margin-left: 20px;
+}
+#ale{
+	height: 50px;
+	width: 150px;
+	background: lightskyblue;
+	margin-top: 50px;
+	margin-left: 20px;
+}
+#ale{
+	height: 50px;
+	width: 150px;
+	background: lightskyblue;
+	margin-top: 20px;
+	margin-left: 220px;
+}
+#bad{
+	height: 50px;
+	width: 150px;
+	background: lightskyblue;
+	margin-top: 20px;
+	margin-left: 720px;
+}
+#buon{
+	height: 50px;
+	width: 150px;
+	background: lightskyblue;
+	margin-top: 20px;
+	margin-left: 720px;
+
+}
+#car{
+	height: 50px;
+	width: 150px;
+	background: lightskyblue;
+	margin-top: 20px;
+	margin-left: 220px;
+}
+#tip{
+	height: 50px;
+	width: 150px;
+	background: lightskyblue;
+	margin-top: 20px;
+	margin-left: 220px;
+}
+#mea{
+    height: 50px;
+	width: 150px;
+	background: lightskyblue;
+	margin-top: 20px;
+	margin-left: 720px;                                                  
+}
+
+#Nav{
+	height: 50px;
+	width: 150px;
+	background: lightskyblue;
+	margin-top: 20px;
+	margin-left: 220px;
+}
+#ml{
+	height: 50px;
+	width: 150px;
+	background: lightskyblue;
+	margin-top: 20px;
+	margin-left: 720px;
+}
+#ress{
+	height: 50px;
+	width: 150px;
+	background: lightskyblue;
+	margin-top: 20px;
+	margin-left: 220px;
+}
+#drop{
+	height: 50px;
+	width: 150px;
+	background: lightskyblue;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+#nar{
+	height: 50px;
+	width: 150px;
+	background: lightskyblue;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+#form{
+    height: 50px;
+	width: 150px;
+	background: lightskyblue;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+#ipl{
+	height: 50px;
+	width: 150px;
+	background: lightskyblue;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+#clapse{
+	height: 50px;
+	width: 150px;
+	background: lightskyblue;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+#total{
+	height: 100px;
+	width:300px;
+	border-radius: 50%;
+	background: lightskyblue;
+	position: relative;
+	bottom: 250px;
+	margin-left: 600px;
+
+}
+div{
+    position: relative;
+    right: 100px;
+}
+red">jumborton</button>
+	<button id="ab"> Spinner</button>
+	<button id="yello"> Scrollspy</button>
+	<button id="ber"> List Group</button>
+	<button id="ba"> Carousel</button>
+	<button id="bc"> Buttongroup</button>
+    <button id="ale">Alerts</button>
+    <button id="bad">Badge</button>
+    <button id="buon">Buttons</button>
+    <button id="car">Card</button>
+    <button id="tip">Tooltip</button>
+    <button id="mea">Media Object</button>
+    <button id="Nav">Nav</button>
+    <button id="ml">Modal</button>
+    <button id="ress">Progress Bar</button>
+    <button id="drop">Drop Down</button>
+    <button id="nar">Navbar </button>
+    <button id="form">Forms</button>
+    <button id="ipl">Input Groups</button>
+    <button id="clapse">Collapse</button>
+    <button id="total"

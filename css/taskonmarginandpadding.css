@@ -1,0 +1,58 @@
+div{
+		height: 500px;
+		width: 600px;
+		background-color: gray;
+
+		text-align: left;
+		
+     /*outline-color: darkred;
+      outline-width: 10px;
+		outline-style: dotted;*/
+		/*float: left;
+		border-width: 40px;
+		border-color: blueviolet;
+*/ 
+}
+
+		
+	}	
+	#abc{
+		width: 600px;
+		height: 500px;
+		border-style:solid;
+	
+		
+		background-color: gray;
+       padding: 50px;
+	}	
+	#cba{
+		width: 500px;
+		height: 300px;
+		border-style:solid;
+	margin: 50px;
+		
+		background-color: orange;
+       padding: 40px;
+	}	
+	#def{
+		width: 400px;
+		height: 200px;
+		border-style:solid;
+	
+		
+		background-color: lightgray;
+       padding: 30px;
+	}	
+	#ghi{
+		width: 300px;
+		height: 100px;
+		border-style:solid;
+		
+		
+		background-color: skyblue;
+       padding: 20px;
+	}	
+
+*{
+ box-sizing: border-box;
+}

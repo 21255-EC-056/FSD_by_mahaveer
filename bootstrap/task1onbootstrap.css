@@ -1,0 +1,48 @@
+#ab{
+	background:lightgray;
+	
+	width: 100%;
+	height: 100%;
+}
+#bb{
+	background: white;
+	padding: 0%;
+}
+h6{
+	text-align: center;
+}
+p{
+	color: lightgray;
+
+}
+img{
+	height: 60%;
+	width: 10%;
+
+}
+.qw{
+	height: 60%;
+	width: 5%;
+   position: relative;
+   top: 10%;
+}
+#red{
+	text-align: right;
+}
+.r{
+	color: black;
+}
+#t{
+
+	border: 1px solid gray ;
+	border-radius: 20%;
+	background-color: lightgray;
+	height: 80%;
+	width: 8%;
+}
+.ty{
+	height: 80%;
+	width: 8%;
+	border: 1px solid gray ;
+	border-radius: 20%;
+   }
